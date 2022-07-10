@@ -1,0 +1,13 @@
+#General Files to ignore
+*.pyc
+*.DS_Store
+.vscode/
+env/
+venv/
+v-env/
+__pycache__/
+dist/
+.serverless/
+node_modules/
+package.json
+package-lock.json
